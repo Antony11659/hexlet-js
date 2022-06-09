@@ -1,0 +1,19 @@
+{
+  "name": "hexlet",
+  "version": "1.0.0",
+  "description": "hexlet-nmp-test",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello, Hexlet!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Antony11659/hexlet-js.git"
+  },
+  "author": "Anton Shur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Antony11659/hexlet-js/issues"
+  },
+  "homepage": "https://github.com/Antony11659/hexlet-js#readme"
+}
