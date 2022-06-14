@@ -1,7 +1,4 @@
-import _ from "lodash";
+const _ = require('lodash');
 
-const fn = _.intersection();
-
-fn([2, 1], [2, 3]);
-
+console.log(_.last(['one', 'two']));
 
