@@ -1,4 +1,3 @@
-const func =(a,b)=> {
-
-return a+b
-}
+const func = (a, b) => {
+  return a + b;
+};
