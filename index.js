@@ -1,4 +1,4 @@
-import _ from "lodash";
+const func =(a,b)=> {
 
-console.log(_.last(['one', 'two']));
-
+return a+b
+}
